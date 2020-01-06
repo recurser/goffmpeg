@@ -4,7 +4,7 @@ import (
 	"os/exec"
 	"testing"
 
-	"github.com/xfrr/goffmpeg/transcoder"
+	"github.com/recurser/goffmpeg/transcoder"
 )
 
 func TestInputNotFound(t *testing.T) {
